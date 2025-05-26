@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! I'm Daragh</h2>
+<h1 align="left">Hi 👋! I'm Daragh</h2>
 
 ###
 
-<p align="left">Software and Electronic Engineering Student at ATU Galway</p>
+<h3 align="center">Software and Electronic Engineering Student at ATU Galway</p>
 
 ###
 
@@ -12,13 +12,17 @@
 
 ###
 
-<h4 align="left">About me</h4>
+---
 
-###
+### About Me
 
-<p align="left">I'm passionate about software development, embedded systems, and IoT innovations, with hands-on experience in C/C++, Java, and web technologies. Recognized for technical excellence and problem-solving abilities, having won awards for project innovation and execution.</p>
+I'm passionate about software development, embedded systems, and IoT innovations, with hands-on experience in C/C++, Java, and web technologies. Recognized for technical excellence and problem-solving abilities, having won awards for project innovation and execution.
 
-###
+📩 [kearney.daragh@gmail.com](mailto:kearney.daragh@gmail.com)
+
+---
+
+### 🔗 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daragh-kearney-608b56262/" target="_blank">
@@ -26,14 +30,25 @@
   </a>
 </div>
 
-###
+---
+
+### 📝 Featured Projects
+- [**IoT Interactive Smart Home**](https://github.com/daraghkearney/IoTSmartHome)
+- [**Football Player Database (SQL)**](https://github.com/daraghkearney/FootballDatabaseSQL)
+- [**Football Player Database (Java)**](https://github.com/Eoin1955/FootballManagement)
+
+---
+
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daraghkearney&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=daraghkearney&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+---
+
+### 🛠️ Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
